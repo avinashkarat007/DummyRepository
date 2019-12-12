@@ -48,6 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Files\basics-04-creating-a-component.rar" />
+    <None Include="Files\basics-05-understanding-app-module-and-registering-components.rar" />
+    <None Include="Files\basics-06-using-custom-components.rar" />
+    <None Include="Files\basics-07-create-component-with-cli-nest-components-duplicate-components.rar" />
+    <None Include="Files\basics-08-working-with-component-templates.rar" />
+    <None Include="Files\basics-09-working-with-component-styles.rar" />
+    <None Include="Files\basics-10-component-selectors.rar" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
